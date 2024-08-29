@@ -5,6 +5,7 @@ Cada branch é a solução de um desafio diferente
 
 Lista de desafios:
 
-| Tema                           |  Solução                | Descrição                                                                                    |
-|--------------------------------|-------------------------|----------------------------------------------------------------------------------------------|
-| Programação orientada a objeto |  [OOP](/challenge-poo/) | [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo) |
+| Tema                           |  Solução                                    | Descrição                                                                                               |
+|--------------------------------|---------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Controle de fluxo              |  [control-flow](/challenge-control-flow/)   | [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo) |
+| Programação orientada a objeto |  [challenge-poo](/challenge-poo/)           | [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)            |
