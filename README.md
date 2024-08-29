@@ -7,5 +7,6 @@ Lista de desafios:
 
 | Tema                           |  Solução                                    | Descrição                                                                                               |
 |--------------------------------|---------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Sintaxe                        |  [syntax](/challenge-syntax/)              | [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)         |
 | Controle de fluxo              |  [control-flow](/challenge-control-flow/)   | [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo) |
-| Programação orientada a objeto |  [challenge-poo](/challenge-poo/)           | [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)            |
+| Programação orientada a objeto |  [poo](/challenge-poo/)                     | [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)            |
