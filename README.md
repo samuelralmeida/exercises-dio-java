@@ -11,3 +11,4 @@ Lista de desafios:
 | Controle de fluxo              |  [control-flow](/challenge-control-flow/)   | [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo) |
 | Programação orientada a objeto |  [poo](/challenge-poo/)                     | [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)            |
 | Banco digital (POO)            |  [digital-bank](/challenge-digital-bank/)   | [Desafio](https://github.com/falvojr/lab-banco-digital-oo/tree/master)                                  |
+| Bootcamp (POO)                 |  [bootcamp](/challenge-bootcamp/)           | [Desafio](https://github.com/cami-la/desafio-poo-dio)                                                   |
