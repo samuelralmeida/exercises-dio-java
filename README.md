@@ -7,8 +7,11 @@ Lista de desafios:
 
 | Tema                           |  Solução                                    | Descrição                                                                                               |
 |--------------------------------|---------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Sintaxe                        |  [syntax](/challenge-syntax/)               | [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)        |
-| Controle de fluxo              |  [control-flow](/challenge-control-flow/)   | [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo) |
-| Programação orientada a objeto |  [poo](/challenge-poo/)                     | [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)            |
-| Banco digital (POO)            |  [digital-bank](/challenge-digital-bank/)   | [Desafio](https://github.com/falvojr/lab-banco-digital-oo/tree/master)                                  |
-| Bootcamp (POO)                 |  [bootcamp](/challenge-bootcamp/)           | [Desafio](https://github.com/cami-la/desafio-poo-dio)                                                   |
+| Sintaxe                        |  [syntax](/challenge-syntax/)                    | [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)          |
+| Controle de fluxo              |  [control-flow](/challenge-control-flow/)        | [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)   |
+| Programação orientada a objeto |  [poo](/challenge-poo/)                          | [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)              |
+| Banco digital (POO)            |  [digital-bank](/challenge-digital-bank/)        | [Desafio](https://github.com/falvojr/lab-banco-digital-oo/tree/master)                                                 |
+| Bootcamp (POO)                 |  [bootcamp](/challenge-bootcamp/)                | [Desafio](https://github.com/cami-la/desafio-poo-dio)                                        |
+| Design patterns                |  [design-patterns](/challenge-design-patterns/)  | [Desafio](https://github.com/digitalinnovationone/lab-padroes-projeto-java)                               |
+| API Rest                       |  [api-rest](/challenge-api-rest/)                | [Desafio](https://github.com/digitalinnovationone/santander-dev-week-2023-api)                            |
+

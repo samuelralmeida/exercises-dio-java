@@ -1,0 +1,14 @@
+POST http://localhost:8080/dispensing HTTP/1.1
+ContentType: application/json
+Accept: application/json
+
+{
+    "userId": "samuel",
+    "medicine": "dipirona",
+    "pillsPerDay": 2,
+    "typeOfDispensing": "unique",
+    "dosingType": "daily",
+    "usageTimeInDays": 30,
+}
+
+###
